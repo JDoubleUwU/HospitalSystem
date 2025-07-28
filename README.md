@@ -1,8 +1,6 @@
-# CapStone
-DjangoProj
 
 # Description
-DJango project to learn fullstack dev cycle a python dev by simulating a hospital management system
+Self project to learn Django backend by creating a hospital management system
 
 # Requirements
 See requirements.txt
